@@ -19,8 +19,32 @@ Our goal is to determine *where* tariff changes significantly influence trade, *
 ---
 
 ## **📂 Repository Structure**
+```
+Ripple-Effects-Tariffs-Trade-Disruptions-in-Global-Commerce/
+│
+├── README.md
+├── requirements.txt
+├── Big Data Final Project Proposal - Google Doc.pdf
+├── .gitignore
+│
+├── notebooks/
+    ├── Data Cleaning and Preparation/
+    │   ├── Clean_data_step_Hrishik.ipynb
+    │   ├── Converting csv to parquet.ipynb
+    │   ├── Summary analysis and Merging trade and tariff data.ipynb
+    │
+    ├── Research Question and Analysis/
+    │   ├── Analysis on trade rate fluctuations influencing total trade.ipynb
+    │   ├── Short Term Sensitivity of Products to Tariff Shocks.ipynb
+    │   ├── Trade_Diversion_Analysis.ipynb
+    │
+    ├── Machine Learning Modeling/
+    │   ├── MachineLearningModelling.ipynb
+    │   ├── ML Pipeline (LR).ipynb
 
+```
 ---
+
 
 ## **🛠️ Technologies Used**
 
